@@ -20,8 +20,8 @@ STEP 10: Export the results to a CSV file.<br>
 ### Program and Output:
 ```
 Developed by: Jeeva M S
-Regsiter no: 212221230040
-
+Register no: 212221230040
+```
 ###### Importing necessary libraries
 ```Python
 import pandas as pd 
